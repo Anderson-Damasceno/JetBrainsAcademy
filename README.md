@@ -1,0 +1,1 @@
+Tutorial of simple projects by JetBrainsAcademy.
